@@ -1,0 +1,4 @@
+power automate 
+- flujos progrmados     {flujos que en determinado tiempo establecido por el usuario se ejecutan}
+- flujos automatizados  {flujos que son iniciados cuando se altera, modifica, actualiza un archivo que este vinculado con un proceso determinado}
+- flujos instantaneos   {flujos en los cuales no tienen un tiempo establecido y no tienen inicio automatico cuando se altera, modifica, actualiza un archivo que este vinculado con un proceso determinado}
